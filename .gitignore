@@ -1,4 +1,4 @@
 venv/
 rf_model.pkl
 __pycache__/
-*.pyc
+*.pycRemove-Item -Recurse -Force .git
