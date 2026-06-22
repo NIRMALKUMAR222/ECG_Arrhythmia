@@ -1,0 +1,12 @@
+streamlit
+tensorflow==2.20.0
+numpy
+pandas
+plotly
+scikit-learn
+joblib
+h5py
+
+# Live confusion matrix
+matplotlib
+seaborn
